@@ -1,7 +1,6 @@
 streamlit
 numpy
-librosa
+librosa==0.10.1
 scikit-learn
 tensorflow
 soundfile
-
