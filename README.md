@@ -78,7 +78,7 @@ The model performance is evaluated using:
 * Classification report (precision, recall, F1-score)
 * Confusion matrix for visual analysis of predictions
 
-> The system achieves an overall test accuracy above 85%.
+> The system achieves an overall test accuracy above 70%.
 
 ---
 
@@ -102,20 +102,4 @@ jupyter notebook Emotion_Recognition.ipynb
 ravdees_speech = "https://zenodo.org/records/1188976"
 ```
 
----
 
-## Future Scope
-
-* Integrate LSTM/GRU layers to capture temporal audio patterns
-* Support real-time audio input and prediction
-* Experiment with transformer-based audio models
-
----
-
-## License
-
-This project is shared under the MIT License. You are free to use, modify, and distribute the code with proper attribution.
-
----
-
-Would you like this written directly into a `README.md` file and added to your repo, or should I generate the file for you to download?
